@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! My name is Turan Gulcicek and welcome to my Github profile.
+Hello! My name is Turan Gülçiçek and welcome to my Github profile.
 
 I am a Front-End Developer with a passion for creating impressive and functional websites and applications. I have specialized in HTML, CSS, and I am currently learning JavaScript technologies. Then I will learn popular frontend frameworks like Vue.js, React, and Angular.
 
@@ -11,3 +11,5 @@ On this Github profile, you can see my personal projects and contributions to op
 If you would like to take a look at my projects or work with me, please don't hesitate to get in touch. I would be happy to help with anything I can.
 
 Thank you for visiting my profile, and I look forward to creating great projects together!
+
+Turan GÜLÇİÇEK
