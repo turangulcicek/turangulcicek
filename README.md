@@ -20,11 +20,11 @@ Turan GÜLÇİÇEK
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](linkedin-dark.svg)](https://linkedin.com/in/turangulcicek)
+[![website](linkedin-light.svg)](https://www.linkedin.com/in/turangulcicek/)
+<!-- [![website](linkedin-dark.svg)](https://www.linkedin.com/in/turangulcicek/) -->
 &nbsp;&nbsp;
-[![website](instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](instagram-light.svg)](https://www.instagram.com/turangulcicek/)
+<!-- [![website](instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 
 ### Languages and Tools:
 
