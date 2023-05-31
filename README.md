@@ -19,8 +19,8 @@ Turan GÜLÇİÇEK
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](linkedin-light.svg)](https://www.linkedin.com/in/turangulcicek/)  [![website](instagram-light.svg)](https://www.instagram.com/turangulcicek/)
+
+[![website](linkedin-light.svg)](https://www.linkedin.com/in/turangulcicek/) &nbsp;&nbsp; [![website](instagram-light.svg)](https://www.instagram.com/turangulcicek/)
 
 
 ### Languages and Tools:
