@@ -17,14 +17,14 @@ Turan GÜLÇİÇEK
 
 
 
-<!-- ### Connect with me:
+### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/turangulcicek)
+[![website](linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](linkedin-dark.svg)](https://linkedin.com/in/turangulcicek)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
+[![website](instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
