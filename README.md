@@ -22,7 +22,6 @@ Turan GÜLÇİÇEK
 &nbsp;&nbsp;
 [![website](linkedin-light.svg)](https://www.linkedin.com/in/turangulcicek/)
 <!-- [![website](linkedin-dark.svg)](https://www.linkedin.com/in/turangulcicek/) -->
-&nbsp;&nbsp;
 [![website](instagram-light.svg)](https://www.instagram.com/turangulcicek/)
 <!-- [![website](instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 
